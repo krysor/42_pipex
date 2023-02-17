@@ -1,0 +1,2 @@
+.PHONY:		all bonus clean fclean re
+       3       3      13
